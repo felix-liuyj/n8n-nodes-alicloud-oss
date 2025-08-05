@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-alicloud-oss",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Alicloud OSS node for n8n",
   "keywords": [
     "n8n-community-node-package",
@@ -52,11 +52,9 @@
     "eslint": "^8.57.0",
     "eslint-plugin-n8n-nodes-base": "^1.16.3",
     "gulp": "^5.0.0",
+    "n8n-workflow": "^1.82.0",
     "prettier": "^3.5.3",
     "typescript": "^5.8.2"
-  },
-  "peerDependencies": {
-    "n8n-workflow": "*"
   },
   "dependencies": {
     "ali-oss": "^6.23.0"
