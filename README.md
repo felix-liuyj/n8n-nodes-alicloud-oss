@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/felix-liuyj/n8n-nodes-alicloud-oss">
-    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/editor-ui/public/favicon.ico" alt="Logo" width="80" height="80">
+    <img src="./nodes/AlicloudOss/alicloud-oss.logo.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">n8n 阿里云 OSS 节点</h3>
